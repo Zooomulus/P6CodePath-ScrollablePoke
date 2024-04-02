@@ -36,6 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![Animation4](https://github.com/Zooomulus/P6ScrollablePoke/assets/115956505/bfa3d243-7cfb-4d0a-bd98-791bf7bc8791)
 
 
 GIF created with **ScreenToGif**
